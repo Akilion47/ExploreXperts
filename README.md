@@ -12,10 +12,6 @@ Explore Xperts is a fictional travel agency website designed to showcase various
 - [Features](#features)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
